@@ -1,0 +1,7 @@
+https://docs.flutter.dev/ui/layout/tutorial
+
+https://www.google.com/search?q=landscape+image&rlz=1C5CHFA_enHN731HN731&source=lnms&sa=X&ved=0ahUKEwidlcCYi-zhAhXjp1kKHc1WCRsQ_AUIDigB&biw=1745&bih=888&udm=2
+
+https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum
+
+https://docs.flutter.dev/ui/widgets/layout

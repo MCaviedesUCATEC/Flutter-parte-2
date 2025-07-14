@@ -1,0 +1,7 @@
+https://app.quicktype.io/
+
+https://pub.dev/packages/sqflite#-readme-tab-
+
+https://pub.dev/packages/path_provider#-installing-tab-
+
+https://sqlitebrowser.org/dl/

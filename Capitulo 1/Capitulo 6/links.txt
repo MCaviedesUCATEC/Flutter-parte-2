@@ -1,0 +1,10 @@
+https://docs.flutter.dev/cookbook/animation/animated-container
+
+https://api.flutter.dev/flutter/animation/Curves-class.html
+
+https://picsum.photos/
+https://fastly.picsum.photos/id/943/200/300.jpg?hmac=l_-sJ_gPk5DPHAo8YKbzTQnfS3H3H5EXzH3oDsa4bts
+
+https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=2
+
+https://www.youtube.com/watch?v=1OPDUhgrI24&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz

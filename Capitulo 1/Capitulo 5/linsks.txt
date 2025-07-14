@@ -1,0 +1,16 @@
+seccion 5 Aplicacion contador
+
+MaterialApp class
+https://api.flutter.dev/flutter/material/MaterialApp-class.html
+
+Scaffold class
+https://api.flutter.dev/flutter/material/Scaffold-class.html
+
+Basic widgets
+https://docs.flutter.dev/ui/widgets/basics
+
+material icons
+https://fonts.google.com/icons
+
+
+seccion 6 componentes de flutter
